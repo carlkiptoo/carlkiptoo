@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @carlkiptoo
 - 👀 I’m interested in software development
-- 🌱 Ex moringa school student
 - 💞️ I’m looking to collaborate on making the best websites and mobile applications
 - 📫 How to reach me carlosiamcarl@gmail.com
 
