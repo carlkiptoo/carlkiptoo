@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlkiptoo
 - 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on making the best websites and mobile applications
-- 📫 How to reach me carlosiamcarl@gmail.com
+- 📫 How to reach me kiptoocarlos0@gmail.com
 
 <!---
 carlkiptoo/carlkiptoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
