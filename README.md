@@ -1,4 +1,4 @@
-# Ola, I'm Carl Kiptoo
+# Ola, I am Kiptoo
 
 I'm a **Backend Developer** passionate about designing and building robust, scalable, and efficient backend systems.
 
